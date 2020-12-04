@@ -1,0 +1,6 @@
+.card-wh{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0 200px 0 200px;
+}

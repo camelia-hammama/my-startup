@@ -1,0 +1,35 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+
+/* Imports*/
+
+@import url('banner.css');
+@import url('navbar.css');
+@import url('container.css');
+@import url('card-wh.css');
+@import url('card-s.css');
+@import url('about.css');
+@import url('icon.css');
+@import url('footer.css');
+@import url('testimonial.css');
+@import url('container-testi.css');
+@import url('container-contact.css');
+
+/* Main */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  color: rgb(55,41,75);
+}
+
+p {
+  font-size: 18px;
+}
+
+body {
+  background-color: #F8FFFF;
+}
+
+
